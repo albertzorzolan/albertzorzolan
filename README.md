@@ -1,6 +1,6 @@
 # Albert Zorzolan
 
-First-year business student at Babson College. I'm currently learning CS and math in my free time, and I am passionate about neuroscience and biology.
+First-year business student at Babson College. I'm currently learning CS and math in my free time, and I am passionate about cognition, biology and computation.
 
 ## Projects
 
